@@ -58,6 +58,33 @@ Odoo ERP integration that routes approval assignments through LINE.
 </tr>
 </table>
 
+## Assessment SRC
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bangkok%20Bank%202023%20(English%20version).svg" height="28" alt="Bangkok Bank" /><br/>
+
+**AI Assessment — Bangkok Bank**
+Technical assessment completed for Bangkok Bank.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Ai-assessment-BangkokBank)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20Siam%20Commercial%20Bank.svg" height="28" alt="SCB" /><br/>
+
+**AI Assessment — SCB**
+Technical assessment completed for Siam Commercial Bank (SCB).
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Ai-assessment-SCB)
+
+</td>
+</tr>
+</table>
+
 ## Stats
 
 <div align="center">
