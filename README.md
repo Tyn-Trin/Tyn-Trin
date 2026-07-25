@@ -74,7 +74,7 @@ Technical assessment completed for Bangkok Bank.
 </td>
 <td width="50%" valign="top">
 
-<img src="https://www.innovestx.co.th/images/default-source/default-album/logo_142x27px-01.png?sfvrsn=c3e4500c_1/" height="28" alt="InnovestX" /><br/>
+<img src="assets/scbs-innovestx-logo.png?v=1" height="40" alt="SCBS to InnovestX" /><br/>
 
 **AI Assessment — InnovestX (SCBX)**<br/>
 Technical assessment completed for InnovestX Securities, part of SCBX group.
