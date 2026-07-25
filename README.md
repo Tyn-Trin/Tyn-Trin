@@ -6,7 +6,7 @@
 
 </div>
 
-I build backend systems, Odoo ERP integrations, and AI/LLM automation — from business requirements to working software.
+Hi guys, my name is Trin Rattnasiri. I'm 23 years old. I graduated from Mae Fah Luang University with a major in Software Engineering. I have experience as a Business Analyst and AI Product Engineer.
 
 ## Technical Skills
 
