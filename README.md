@@ -19,7 +19,7 @@ Hi guys, my name is Trin Rattnasiri. I'm 23 years old. I graduated from Mae Fah 
 
 ## Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -60,7 +60,7 @@ Odoo ERP integration that routes approval assignments through LINE.
 
 ## Assessment SRC
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
