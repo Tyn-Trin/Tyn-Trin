@@ -32,7 +32,7 @@ AI assistant that automates internal virtual-office workflows.
 <td width="50%" valign="top">
 
 **AI Agent — Business Intelligence**<br/>
-AI agent that turns raw business data into BI visualizations.
+AI agent Chat that turns raw business data into BI visualizations.
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-)
 
