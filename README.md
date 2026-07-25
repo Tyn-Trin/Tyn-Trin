@@ -74,10 +74,10 @@ Technical assessment completed for Bangkok Bank.
 </td>
 <td width="50%" valign="top">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Siam_Commercial_Bank_Logo.svg" height="28" alt="SCB" /><br/>
+<img src="https://www.innovestx.co.th/images/default-source/default-album/logo_142x27px-01.png?sfvrsn=c3e4500c_1/" height="28" alt="InnovestX" /><br/>
 
-**AI Assessment — SCB**<br/>
-Technical assessment completed for Siam Commercial Bank (SCB).
+**AI Assessment — InnovestX (SCBX)**<br/>
+Technical assessment completed for InnovestX Securities, part of SCBX group.
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Ai-assessment-SCB)
 
