@@ -38,9 +38,25 @@ AI agent that turns raw business data into BI visualizations.
 
 </td>
 </tr>
-</table>
+<tr>
+<td width="50%" valign="top">
 
-[See full portfolio →](https://github.com/Tyn-Trin/Trin-Rattansiri-Portfolio)
+**Digital Marketing Agency — AI Automation**
+AI-driven automation for digital marketing agency operations.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Digital-Marketing-Agency-AI-Automation)
+
+</td>
+<td width="50%" valign="top">
+
+**Odoo ERP — LINE Approval Assign**
+Odoo ERP integration that routes approval assignments through LINE.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Odoo-ERP-LINE-Approval-Assign)
+
+</td>
+</tr>
+</table>
 
 ## Stats
 
