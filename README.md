@@ -38,9 +38,6 @@ AI agent that turns raw business data into BI visualizations.
 
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
