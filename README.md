@@ -21,11 +21,21 @@ I build backend systems, Odoo ERP integrations, and AI/LLM automation — from b
 
 <table>
 <tr>
-<td width="50%">
-<a href="https://github.com/Tyn-Trin/Visual-Office-Ai-Assistant"><img src="https://opengraph.githubassets.com/1/Tyn-Trin/Visual-Office-Ai-Assistant" width="100%" alt="Virtual Office — AI-Assistant" /></a>
+<td width="50%" valign="top">
+
+**Virtual Office — AI-Assistant**
+AI assistant that automates internal virtual-office workflows.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Visual-Office-Ai-Assistant)
+
 </td>
-<td width="50%">
-<a href="https://github.com/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-"><img src="https://opengraph.githubassets.com/1/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-" width="100%" alt="AI Agent — Business Intelligence" /></a>
+<td width="50%" valign="top">
+
+**AI Agent — Business Intelligence**
+AI agent that turns raw business data into BI visualizations.
+
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-)
+
 </td>
 </tr>
 </table>
