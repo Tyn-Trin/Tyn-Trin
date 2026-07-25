@@ -49,7 +49,7 @@ AI agent Chat that turns raw business data into BI visualizations.
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Bangkok_Bank_2023_%28English_version%29.svg" height="28" alt="Bangkok Bank" /><br/>
 
 **AI Assessment — Bangkok Bank**<br/>
-Technical assessment completed for Bangkok Bank during the hiring process.
+Technical assessment completed for Bangkok Bank during the hiring Ai Engineer process.
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Ai-assessment-BangkokBank)
 
@@ -59,7 +59,7 @@ Technical assessment completed for Bangkok Bank during the hiring process.
 <img src="assets/scbs-innovestx-logo.png?v=1" height="28" alt="SCBS to InnovestX" /><br/>
 
 **AI Assessment — InnovestX (SCBX)**<br/>
-Technical assessment completed for InnovestX (SCBX) during the hiring process.
+Technical assessment completed for InnovestX (SCBX) during the hiring Ai Engineer process.
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Ai-assessment-SCB)
 
