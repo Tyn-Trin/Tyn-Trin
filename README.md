@@ -77,7 +77,7 @@ Technical assessment for Bangkok Bank.
 <img src="assets/scbs-innovestx-logo.png?v=1" height="28" alt="SCBS to InnovestX" /><br/>
 
 **AI Assessment — InnovestX (SCBX)**<br/>
-Technical assessment completed for InnovestX.
+Technical assessment for InnovestX.
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Ai-assessment-SCB)
 
