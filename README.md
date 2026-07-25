@@ -23,7 +23,7 @@ I build backend systems, Odoo ERP integrations, and AI/LLM automation — from b
 <tr>
 <td width="50%" valign="top">
 
-**Virtual Office — AI-Assistant**
+**Virtual Office — AI-Assistant**<br/>
 AI assistant that automates internal virtual-office workflows.
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Visual-Office-Ai-Assistant)
@@ -31,7 +31,7 @@ AI assistant that automates internal virtual-office workflows.
 </td>
 <td width="50%" valign="top">
 
-**AI Agent — Business Intelligence**
+**AI Agent — Business Intelligence**<br/>
 AI agent that turns raw business data into BI visualizations.
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-)
@@ -41,7 +41,7 @@ AI agent that turns raw business data into BI visualizations.
 <tr>
 <td width="50%" valign="top">
 
-**Digital Marketing Agency — AI Automation**
+**Digital Marketing Agency — AI Automation**<br/>
 AI-driven automation for digital marketing agency operations.
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Digital-Marketing-Agency-AI-Automation)
@@ -49,7 +49,7 @@ AI-driven automation for digital marketing agency operations.
 </td>
 <td width="50%" valign="top">
 
-**Odoo ERP — LINE Approval Assign**
+**Odoo ERP — LINE Approval Assign**<br/>
 Odoo ERP integration that routes approval assignments through LINE.
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Odoo-ERP-LINE-Approval-Assign)
@@ -64,9 +64,9 @@ Odoo ERP integration that routes approval assignments through LINE.
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Bangkok%20Bank%202023%20(English%20version).svg" height="28" alt="Bangkok Bank" /><br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Bangkok_Bank_2023_%28English_version%29.svg" height="28" alt="Bangkok Bank" /><br/>
 
-**AI Assessment — Bangkok Bank**
+**AI Assessment — Bangkok Bank**<br/>
 Technical assessment completed for Bangkok Bank.
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Ai-assessment-BangkokBank)
@@ -74,9 +74,9 @@ Technical assessment completed for Bangkok Bank.
 </td>
 <td width="50%" valign="top">
 
-<img src="https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20of%20Siam%20Commercial%20Bank.svg" height="28" alt="SCB" /><br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Siam_Commercial_Bank_Logo.svg" height="28" alt="SCB" /><br/>
 
-**AI Assessment — SCB**
+**AI Assessment — SCB**<br/>
 Technical assessment completed for Siam Commercial Bank (SCB).
 
 [![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Ai-assessment-SCB)
