@@ -19,9 +19,18 @@ I build backend systems, Odoo ERP integrations, and AI/LLM automation — from b
 
 ## Featured Projects
 
-- [Virtual Office — AI-Assistant](https://github.com/Tyn-Trin/Visual-Office-Ai-Assistant)
-- [AI Agent — Business Intelligence](https://github.com/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-)
-- [Full Portfolio](https://github.com/Tyn-Trin/Trin-Rattansiri-Portfolio)
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/Tyn-Trin/Visual-Office-Ai-Assistant"><img src="https://opengraph.githubassets.com/1/Tyn-Trin/Visual-Office-Ai-Assistant" width="100%" alt="Virtual Office — AI-Assistant" /></a>
+</td>
+<td width="50%">
+<a href="https://github.com/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-"><img src="https://opengraph.githubassets.com/1/Tyn-Trin/AI-Agent-transforms-it-into-Business-Intelligence-visualizations-" width="100%" alt="AI Agent — Business Intelligence" /></a>
+</td>
+</tr>
+</table>
+
+[See full portfolio →](https://github.com/Tyn-Trin/Trin-Rattansiri-Portfolio)
 
 ## Stats
 
