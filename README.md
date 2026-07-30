@@ -61,7 +61,7 @@ Technical assessment completed for Bangkok Bank during the hiring Ai Engineer pr
 **AI Assessment — InnovestX (SCBX)**<br/>
 Technical assessment completed for InnovestX (SCBX) during the hiring Ai Engineer process.
 
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Ai-assessment-SCB)
+[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tyn-Trin/Ai-Workspace-Management)
 
 </td>
 </tr>
